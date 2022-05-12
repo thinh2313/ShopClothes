@@ -16,5 +16,11 @@ export class ProductItemComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  
+  // openDetails() {
+  //   if (!this.addMode) {
+  //     this.router.navigateByUrl('/details/' + this.cityName);
+  //   }
+  // }
 
 }
